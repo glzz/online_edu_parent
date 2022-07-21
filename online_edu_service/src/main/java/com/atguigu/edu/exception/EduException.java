@@ -1,4 +1,4 @@
-package com.atguigu.exception;
+package com.atguigu.edu.exception;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

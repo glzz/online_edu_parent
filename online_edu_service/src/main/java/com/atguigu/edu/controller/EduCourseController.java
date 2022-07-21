@@ -2,11 +2,11 @@ package com.atguigu.edu.controller;
 
 
 import com.atguigu.edu.entity.EduCourse;
+import com.atguigu.edu.request.CourseCondition;
+import com.atguigu.edu.request.CourseInfoVO;
+import com.atguigu.edu.response.CourseConfirmVO;
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.edu.service.EduCourseService;
-import com.atguigu.request.CourseCondition;
-import com.atguigu.request.CourseInfoVO;
-import com.atguigu.response.CourseConfirmVO;
-import com.atguigu.response.RetVal;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import io.swagger.annotations.ApiParam;
 import org.springframework.beans.factory.annotation.Autowired;

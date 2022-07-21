@@ -35,7 +35,6 @@
         <jarDirectory url="file://$MODULE_DIR$/../../JavaEE/3.项目/项目2_在线教育/day10/资料/资料/aliyun-sdk-vod-upload/aliyun-sdk-vod-upload" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="online_edu_common" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.16.22" level="project" />
     <orderEntry type="library" name="Maven: io.springfox:springfox-swagger2:2.9.2" level="project" />
     <orderEntry type="library" name="Maven: io.swagger:swagger-annotations:1.5.20" level="project" />

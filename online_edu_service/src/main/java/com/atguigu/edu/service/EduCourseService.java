@@ -1,10 +1,10 @@
 package com.atguigu.edu.service;
 
 import com.atguigu.edu.entity.EduCourse;
-import com.atguigu.request.CourseCondition;
-import com.atguigu.request.CourseInfoVO;
-import com.atguigu.response.CourseConfirmVO;
-import com.atguigu.response.CourseDetailInfoVO;
+import com.atguigu.edu.request.CourseCondition;
+import com.atguigu.edu.request.CourseInfoVO;
+import com.atguigu.edu.response.CourseConfirmVO;
+import com.atguigu.edu.response.CourseDetailInfoVO;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
 

@@ -1,7 +1,7 @@
 package com.atguigu.hander;
 
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.edu.service.VideoServiceFeign;
-import com.atguigu.response.RetVal;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

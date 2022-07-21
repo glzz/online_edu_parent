@@ -1,11 +1,11 @@
 package com.atguigu.edu.controller.front;
 
+import com.atguigu.edu.response.ChapterVO;
+import com.atguigu.edu.response.CourseDetailInfoVO;
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.edu.service.EduChapterService;
 import com.atguigu.edu.service.EduCourseService;
 import com.atguigu.edu.service.EduTeacherService;
-import com.atguigu.response.ChapterVO;
-import com.atguigu.response.CourseDetailInfoVO;
-import com.atguigu.response.RetVal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

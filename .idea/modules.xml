@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/online_edu_common/online_edu_common.iml" filepath="$PROJECT_DIR$/online_edu_common/online_edu_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/online_edu_parent.iml" filepath="$PROJECT_DIR$/online_edu_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/online_edu_service/online_edu_service.iml" filepath="$PROJECT_DIR$/online_edu_service/online_edu_service.iml" />
     </modules>

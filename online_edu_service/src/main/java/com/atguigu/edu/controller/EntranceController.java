@@ -1,6 +1,6 @@
 package com.atguigu.edu.controller;
 
-import com.atguigu.response.RetVal;
+import com.atguigu.edu.response.RetVal;
 import org.springframework.web.bind.annotation.*;
 
 /**

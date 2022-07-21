@@ -1,4 +1,4 @@
-package com.atguigu.response;
+package com.atguigu.edu.response;
 
 import lombok.Data;
 

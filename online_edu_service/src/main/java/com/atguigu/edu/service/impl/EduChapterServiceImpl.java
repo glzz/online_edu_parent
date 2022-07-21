@@ -2,12 +2,12 @@ package com.atguigu.edu.service.impl;
 
 import com.atguigu.edu.entity.EduChapter;
 import com.atguigu.edu.entity.EduSection;
+import com.atguigu.edu.exception.EduException;
 import com.atguigu.edu.mapper.EduChapterMapper;
+import com.atguigu.edu.response.ChapterVO;
+import com.atguigu.edu.response.SectionVO;
 import com.atguigu.edu.service.EduChapterService;
 import com.atguigu.edu.service.EduSectionService;
-import com.atguigu.exception.EduException;
-import com.atguigu.response.ChapterVO;
-import com.atguigu.response.SectionVO;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

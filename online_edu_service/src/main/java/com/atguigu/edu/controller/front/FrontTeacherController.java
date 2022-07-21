@@ -2,9 +2,9 @@ package com.atguigu.edu.controller.front;
 
 import com.atguigu.edu.entity.EduCourse;
 import com.atguigu.edu.entity.EduTeacher;
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.edu.service.EduCourseService;
 import com.atguigu.edu.service.EduTeacherService;
-import com.atguigu.response.RetVal;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import org.springframework.beans.factory.annotation.Autowired;

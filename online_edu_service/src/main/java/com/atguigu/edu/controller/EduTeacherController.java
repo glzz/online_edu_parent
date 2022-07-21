@@ -1,9 +1,9 @@
 package com.atguigu.edu.controller;
 
 import com.atguigu.edu.entity.EduTeacher;
+import com.atguigu.edu.request.TeacherConditionVO;
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.edu.service.EduTeacherService;
-import com.atguigu.request.TeacherConditionVO;
-import com.atguigu.response.RetVal;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import io.swagger.annotations.ApiParam;
 import org.springframework.beans.factory.annotation.Autowired;

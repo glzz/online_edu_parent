@@ -2,8 +2,8 @@ package com.atguigu.edu.controller;
 
 
 import com.atguigu.edu.entity.EduSection;
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.edu.service.EduSectionService;
-import com.atguigu.response.RetVal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

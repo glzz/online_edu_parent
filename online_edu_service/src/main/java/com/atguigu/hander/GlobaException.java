@@ -1,7 +1,7 @@
 package com.atguigu.hander;
 
-import com.atguigu.exception.EduException;
-import com.atguigu.response.RetVal;
+import com.atguigu.edu.exception.EduException;
+import com.atguigu.edu.response.RetVal;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;

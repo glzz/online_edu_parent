@@ -8,6 +8,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/online_edu_common/pom.xml" />
         <option value="$PROJECT_DIR$/online_edu_oss/pom.xml" />
         <option value="$PROJECT_DIR$/online_edu_register/pom.xml" />
         <option value="$PROJECT_DIR$/online_edu_user/pom.xml" />

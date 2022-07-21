@@ -1,7 +1,7 @@
 package com.atguigu.edu.service;
 
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.hander.VideoServiceHandler;
-import com.atguigu.response.RetVal;
 import io.swagger.annotations.ApiParam;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.DeleteMapping;

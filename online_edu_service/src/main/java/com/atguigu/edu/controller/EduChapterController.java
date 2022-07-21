@@ -2,9 +2,9 @@ package com.atguigu.edu.controller;
 
 
 import com.atguigu.edu.entity.EduChapter;
+import com.atguigu.edu.response.ChapterVO;
+import com.atguigu.edu.response.RetVal;
 import com.atguigu.edu.service.EduChapterService;
-import com.atguigu.response.ChapterVO;
-import com.atguigu.response.RetVal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

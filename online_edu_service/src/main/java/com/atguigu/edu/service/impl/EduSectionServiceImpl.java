@@ -1,10 +1,10 @@
 package com.atguigu.edu.service.impl;
 
 import com.atguigu.edu.entity.EduSection;
+import com.atguigu.edu.exception.EduException;
 import com.atguigu.edu.mapper.EduSectionMapper;
 import com.atguigu.edu.service.EduSectionService;
 import com.atguigu.edu.service.VideoServiceFeign;
-import com.atguigu.exception.EduException;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.apache.commons.lang3.StringUtils;

@@ -1,4 +1,4 @@
-package com.atguigu.response;
+package com.atguigu.edu.response;
 //定义操作状态码
 public interface RetCode {
     int OK = 20000;//成功

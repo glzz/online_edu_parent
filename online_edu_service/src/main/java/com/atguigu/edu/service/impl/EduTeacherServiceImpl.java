@@ -2,8 +2,8 @@ package com.atguigu.edu.service.impl;
 
 import com.atguigu.edu.entity.EduTeacher;
 import com.atguigu.edu.mapper.EduTeacherMapper;
+import com.atguigu.edu.request.TeacherConditionVO;
 import com.atguigu.edu.service.EduTeacherService;
-import com.atguigu.request.TeacherConditionVO;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

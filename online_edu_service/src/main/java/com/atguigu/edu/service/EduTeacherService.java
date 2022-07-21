@@ -1,7 +1,7 @@
 package com.atguigu.edu.service;
 
 import com.atguigu.edu.entity.EduTeacher;
-import com.atguigu.request.TeacherConditionVO;
+import com.atguigu.edu.request.TeacherConditionVO;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
 

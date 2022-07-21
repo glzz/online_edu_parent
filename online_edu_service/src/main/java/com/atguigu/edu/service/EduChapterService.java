@@ -1,7 +1,7 @@
 package com.atguigu.edu.service;
 
 import com.atguigu.edu.entity.EduChapter;
-import com.atguigu.response.ChapterVO;
+import com.atguigu.edu.response.ChapterVO;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 import java.util.List;
