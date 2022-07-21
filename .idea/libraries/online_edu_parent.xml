@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="online_edu_parent">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/online_edu_common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/online_edu_oss/src/main/java" />
+      <root url="file://$PROJECT_DIR$/online_edu_oss/src/test/java" />
+      <root url="file://$PROJECT_DIR$/online_edu_service/src/main/java" />
+      <root url="file://$PROJECT_DIR$/online_edu_service/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
